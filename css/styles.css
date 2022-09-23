@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  background-color: bisque;
+}
+
+h1 {
+  color: rgb(144, 27, 107);
+}
+.navigation-links {
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  color: chocolate;
+}
+
+a:visited {
+  color: chocolate;
+}
+
+a:hover {
+  color: darkmagenta;
+}
